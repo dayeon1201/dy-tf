@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"ec2-resources","Source":"./local_modules/ec2-resources","Dir":"local_modules/ec2-resources"},{"Key":"ec2-resources.network","Source":"./local_modules/network","Dir":""},{"Key":"network","Source":"./local_modules/network","Dir":"local_modules/network"}]}
